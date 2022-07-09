@@ -1,1 +1,2 @@
 amodify a.txt
+changed in a.txt
