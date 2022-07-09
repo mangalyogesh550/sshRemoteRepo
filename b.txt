@@ -1,1 +1,2 @@
 bmodify b.txt
+second change in the b.txt
