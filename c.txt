@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is changed at the the local repository side
+=======
+this change is at the remote repo side
+>>>>>>> 5c27797213b41cad1dfbb3117fdf5930919d3e99
