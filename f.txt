@@ -1,3 +1,7 @@
 this is the empty file
 ok the file is not empty right now
+<<<<<<< HEAD
 this change is made at the local repositoy
+=======
+this change is at the remote repo location
+>>>>>>> bbbdab5ee768675a55161945784b7faf85f24abe
